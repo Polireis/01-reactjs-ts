@@ -8,9 +8,19 @@
 </p>
 
 
-## 💻 Projeto
+## 💻 Project
+### The project is based on creating a React application using Vite and utilizing important React concepts, such as componentization, props, state, immutability, and hooks. Additionally, TypeScript will be applied to the project to add static typing to the application.
 
-ignite-reactjs-01-fundamentos-react
+## ⚙️ Technology
+### Technologies used in the project.
+JavaScript 
+CSS - React
+Vite - Node.js
+
+## 🖼️ WebSite - Mobile
+### The project interface on the website.
+### The project interface on the mobile.
+
 
 ## 📝 Licença
 
